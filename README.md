@@ -1,32 +1,3 @@
-<<<<<<< HEAD
-## Point of Sale System UI using React.JS
-
-#### Intro
-
-The Project is about designing the front-end of the Point of Sale System. It consist of products with prices with buying and selling features.
-
-#### Programming
-
-The project is created using the following languages
-
-- REACT 17.1
-- JSX
-- HTML5
-- CSS3
-- BOOTSTRAP 4.5
-- FONTAWSOME Icons
-
-### Target
-
-Following is the target Image required to create\
-POS Target![alt text](https://raw.githubusercontent.com/Usama-Taj/POS-UI-REACT/main/src/asset/images/POS_Target.jpeg?raw=true)
-
-### For More Projects
-
-##### Visit My:
-
-[Git Hub](https://github.com/usama-taj)
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -97,5 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # react-testing-one
->>>>>>> 5dc38a4eeecebedfb296de1b8173bc717f559792
