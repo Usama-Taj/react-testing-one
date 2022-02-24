@@ -3,9 +3,9 @@ import React, { useState, useEffect } from "react";
 import Comment from "./Comment";
 const CommentList = () => {
   return (
-    <Paper sx={{ p: 5 }}>
-      <Typography variant="h5">Comment List</Typography>
-    </Paper>
+    <div className="row">
+      <h2>Comment List</h2>
+    </div>
   );
 };
 
